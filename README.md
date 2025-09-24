@@ -23,6 +23,7 @@ The *Upgrad Content Repurposer Agent* automates the process by transforming **le
 
 Link:  [https://chat.lindy.ai/home/?templateId=68cd93267e1a563cf540f8f3](https://chat.lindy.ai/home/?templateId=68cd93267e1a563cf540f8f3)
 
+https://chat.lindy.ai/hackathon01s-workspace/lindy/upgrac-edtech-content-repurposer-68d3bb4aae387c40f5427024/editor?sT=true&testRunId=68d3befda107f88465b29e8f
 \--\-![][image1]
 
 🚀 How It Works
