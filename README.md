@@ -20,10 +20,11 @@ The *Upgrad Content Repurposer Agent* automates the process by transforming **le
 \---
 
  ⚙️ Workflow (Built in Lindy)
+ 
 
 Link:  [https://chat.lindy.ai/home/?templateId=68cd93267e1a563cf540f8f3](https://chat.lindy.ai/home/?templateId=68cd93267e1a563cf540f8f3)
+https://chat.lindy.ai/home/?templateId=68bc2be4ce9fe183d16d6aa2
 
-https://chat.lindy.ai/hackathon01s-workspace/lindy/upgrac-edtech-content-repurposer-68d3bb4aae387c40f5427024/editor?sT=true&testRunId=68d3befda107f88465b29e8f
 \--\-![][image1]
 
 🚀 How It Works
@@ -36,6 +37,8 @@ https://chat.lindy.ai/hackathon01s-workspace/lindy/upgrac-edtech-content-repurpo
    \- Localized versions    
 3\. Saves all results into Google Drive folders.    
 Link:  [https://chat.lindy.ai/home/?templateId=68cd93267e1a563cf540f8f3](https://chat.lindy.ai/home/?templateId=68cd93267e1a563cf540f8f3)  
+https://chat.lindy.ai/home/?templateId=68bc2be4ce9fe183d16d6aa2
+
 Output Link: https://drive.google.com/drive/folders/1MYF9\_6\_LWFTaPM8knRUwJ\_GWHJl7WO9W?usp=sharing  
 \---
 
