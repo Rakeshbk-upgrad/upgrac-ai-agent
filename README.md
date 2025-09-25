@@ -22,7 +22,8 @@ The *Upgrad Content Repurposer Agent* automates the process by transforming **le
  ⚙️ Workflow (Built in Lindy)
  
 
-Link:  [https://chat.lindy.ai/home/?templateId=68cd93267e1a563cf540f8f3](https://chat.lindy.ai/home/?templateId=68cd93267e1a563cf540f8f3)
+Link: [ [https://chat.lindy.ai/home/?templateId=68cd93267e1a563cf540f8f3](https://chat.lindy.ai/home/?templateId=68cd93267e1a563cf540f8f3)] 
+(https://chat.lindy.ai/home/?templateId=68bc2be4ce9fe183d16d6aa2)
 https://chat.lindy.ai/home/?templateId=68bc2be4ce9fe183d16d6aa2
 
 \--\-![][image1]
